@@ -18,7 +18,7 @@
       <a href="https://www.linkedin.com/in/vishalmore99/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="Vishal More" height="30" width="40" /></a>
-            <a href="https://github.com/morevishal99/morevishal99.github.io/" target="blank"><img align="center"
+            <a href="https://morevishal99.github.io/" target="blank"><img align="center"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnlUSvwUNWJpC3r3cIrEAOewnnQi0yAdYaQ&usqp=CAU"
             alt="Vishal More" height="30" width="40" /></a>
              <br>
