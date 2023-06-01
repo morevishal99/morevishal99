@@ -34,6 +34,7 @@ alt="Vishal More" height="30" width="40" />
 <p>
  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px" />
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px" /> 
+ <img alt="Css3" src="https://img.shields.io/badge/ChakraUI-323330?style=for-the-badge&logo=chakraui&logoColor=F7DF1E" height="25px" /> 
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px" />
 <img alt="React JS" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=White" height="25px" />  
 <img alt="Redux" src="https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=F7DF1E" height="25px" />
