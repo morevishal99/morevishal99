@@ -42,7 +42,7 @@ alt="Vishal More" height="30" width="40" />
 <hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morevishal99&show_icons=true&locale=en&layout=compact"
-alt="morevishal99" /> 
+alt="morevishal99"  /> 
         
 <img align="center" height="165em"
 src="https://github-readme-streak-stats.herokuapp.com/?user=morevishal99&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
