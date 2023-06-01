@@ -41,16 +41,16 @@ alt="Vishal More" height="30" width="40" />
 </p>
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morevishal99&show_icons=true&locale=en&layout=compact"
-alt="morevishal99"  /> 
+
         
-<img align="center" height="165em"
+<img align="left" height="165em"
 src="https://github-readme-streak-stats.herokuapp.com/?user=morevishal99&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
 
 
-<img align="center" height="165em"
+<img align="right" height="165em"
 src="https://github-readme-stats.vercel.app/api?username=morevishal99&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
     
-<img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=morevishal99&theme=radical&langs_count=8" alt="Vishal More" height="260px" width="25%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morevishal99&show_icons=true&locale=en&layout=compact"
+alt="morevishal99"  /> 
 <hr>
