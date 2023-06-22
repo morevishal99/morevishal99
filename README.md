@@ -14,7 +14,7 @@ width="400px" align="right" />
 <p>💫 About Me:</p>
 <p>🔭Currently a student at Masai School</p>
 <p>🌱 I’m currently learning **Full Stack Web Development** </p>
-<p>🌱Proficient in HTML, CSS, Javascript and React framework</p>
+<p>🌱Proficient in HTML,CSS, Javascript and React framework</p>
 <p>💭Specialize in Front End development</p>
 <p>- -📫 How to reach me **morevishal060298@gmail.com**</p>
 <p>📄 Check out my <a href="https://drive.google.com/file/d/1MT0lyDc2sz4cRTEJHsArdDrLWbebLhE9/view">Resume</a> </p>
