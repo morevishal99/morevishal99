@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal More</h1> 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true" />
+<img align="center"src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true" />
 <hr>
 <p align="left">
      <img src="https://komarev.com/ghpvc/?username=morevishal99&label=Profile%20views&color=0e75b6&style=flat" alt="morevishal99" />
