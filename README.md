@@ -11,7 +11,7 @@
 <hr>
 <img   src="https://camo.githubusercontent.com/101c98f67298425e9875ecfac1c25efccaf3c966db04609cc4f4e92d6bd12c32/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" alt="Coding"
 width="400px"align="right"/>
-<p>💫 About Me:</p>
+<p>💫About Me:</p>
 <p>🌱 I’m currently learning **Full Stack Web Development** </p>
 <p>🎗Proficient in HTML, CSS, Javascript,  and MERN Stack Development</p>
 <p>💭Specialize in Front End development</p>
