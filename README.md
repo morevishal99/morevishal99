@@ -1,22 +1,15 @@
 <h1 align="center">Hi 👋,I'm Vishal More</h1> 
 <img align="center"src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true"/>
 <hr>
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=morevishal99&label=Profile%20views&color=0e75b6&style=flat" alt="morevishal99"/>
-</p>
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=morevishal99" alt="morevishal99"/></a>
-</p>
-<hr>
-<img   src="https://camo.githubusercontent.com/101c98f67298425e9875ecfac1c25efccaf3c966db04609cc4f4e92d6bd12c32/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" alt="Coding"
-width="400px"align="right"/>
+
 <p>💫About Me:</p>
 <p>🌱 I’m currently learning **Full Stack Web Development** </p>
 <p>🎗Proficient in HTML, CSS, Javascript,  and MERN Stack Development</p>
 <p>💭Specialize in Front End development</p>
 <p> 📩 Reach me at **morevishal060298@gmail.com**</p>
 <p>📄 Check out my <a href="https://drive.google.com/file/d/1MT0lyDc2sz4cRTEJHsArdDrLWbebLhE9/view">Resume</a> </p>
+<p>- 👨‍💻 All of my projects are available at [https://morevishal99.github.io/](https://morevishal99.github.io/)
+</p>
 <h3 align="left">Socials :</h3>
 <a href="https://www.linkedin.com/in/vishalmore99/" target="blank">
 <img align="center"
@@ -28,6 +21,16 @@ alt="Vishal More" height="30" width="40" />
      alt="Vishal More" height="30" width="40" />
 </a>
 <br>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=morevishal99&label=Profile%20views&color=0e75b6&style=flat" alt="morevishal99"/>
+</p>
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=morevishal99" alt="morevishal99"/></a>
+</p>
+<hr>
+<img   src="https://camo.githubusercontent.com/101c98f67298425e9875ecfac1c25efccaf3c966db04609cc4f4e92d6bd12c32/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" alt="Coding"
+width="400px"align="right"/>
 <hr>
 <h3 align="left">Languages and Tools:</h3> 
 <p>
