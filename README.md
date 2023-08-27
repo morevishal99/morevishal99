@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋,I'm Vishal More</h1> 
 <img align="center"src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true"/>
 <hr>
-
 <p>💫About Me:</p>
 <p>🌱 I’m currently learning **Full Stack Web Development** </p>
 <p>🎗Proficient in HTML, CSS, Javascript,  and MERN Stack Development</p>
