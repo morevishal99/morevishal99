@@ -7,7 +7,7 @@
 <p>💭Specialize in Front End development</p>
 <p> 📩 Reach me at **morevishal060298@gmail.com**</p>
 <p>📄 Check out my <a href="https://drive.google.com/file/d/1MT0lyDc2sz4cRTEJHsArdDrLWbebLhE9/view">Resume</a> </p>
-<p>- 👨‍💻 All of my projects are available at [https://morevishal99.github.io/](https://morevishal99.github.io/)
+<p>- 👨‍💻 All of my projects are available at https://morevishal99.github.io/
 </p>
 <h3 align="left">Socials :</h3>
 <a href="https://www.linkedin.com/in/vishalmore99/" target="blank">
