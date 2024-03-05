@@ -2,8 +2,8 @@
 <img align="center"src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true"/>
 <hr>
 <p>💫About Me:</p>
-<p>🌱 I’m currently learning **Full Stack Web Development** </p>
-<p>🎗Proficient in HTML, CSS, Javascript,  and MERN Stack Development</p>
+<p>🌱 I’m  **Full Stack Web Developer** </p>
+<p>🎗Proficient in HTML, CSS, Javascript, React JS  and MERN Stack Development</p>
 <p>💭Specialize in Front End development</p>
 <p> 📩 Reach me at **morevishal060298@gmail.com**</p>
 <p>📄 Check out my <a href="https://drive.google.com/file/d/1MT0lyDc2sz4cRTEJHsArdDrLWbebLhE9/view">Resume</a> </p>
